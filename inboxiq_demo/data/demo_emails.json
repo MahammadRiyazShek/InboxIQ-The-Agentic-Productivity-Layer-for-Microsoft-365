@@ -1,0 +1,102 @@
+[
+  {
+    "id": "e1",
+    "from_name": "Rohan Singh",
+    "from_email": "rohan.singh@projectfalcon.com",
+    "subject": "Q2 Project Update & Next Steps — Need alignment by EOD",
+    "body": "Hi Alex,\n\nQuick update on Project Falcon. The design phase is running 4 days behind because the Figma vendor missed the handoff. To stay on track for the July 15 launch we need to either (a) pull Maya off the marketing site or (b) approve overtime for the design team.\n\nCan you confirm which option you prefer by EOD today? Sarah from Legal also flagged that the privacy review needs to wrap by Friday.\n\nThanks,\nRohan",
+    "received": "2026-06-02 09:15",
+    "thread_length": 4,
+    "has_attachment": false
+  },
+  {
+    "id": "e2",
+    "from_name": "Neha Patel",
+    "from_email": "neha.patel@acme.com",
+    "subject": "Budget Review — Marketing Initiative (approval needed)",
+    "body": "Hi Alex,\n\nAttached is the revised Q2 marketing budget. The total ask is $148K (up from $120K) — the increase covers the LinkedIn paid pilot we discussed and the new explainer video.\n\nI need your approval by tomorrow EOD so finance can process before the cycle closes. Happy to jump on a 15-min call if easier.\n\nBest,\nNeha",
+    "received": "2026-06-02 08:47",
+    "thread_length": 2,
+    "has_attachment": true
+  },
+  {
+    "id": "e3",
+    "from_name": "Arjun Chatterjee",
+    "from_email": "arjun@acme-client.io",
+    "subject": "Client Feedback — Acme Portal prototype",
+    "body": "Alex,\n\nThe team reviewed the portal prototype yesterday. Overall feedback is positive — the dashboard layout works well and the search is much faster.\n\nA few minor UI notes (not blockers):\n- Filter chips wrap awkwardly on tablet\n- Export icon is hard to spot\n- Would love a dark mode in v2\n\nNo action needed from your side right now, just keeping you in the loop.\n\nArjun",
+    "received": "2026-06-01 16:22",
+    "thread_length": 1,
+    "has_attachment": false
+  },
+  {
+    "id": "e4",
+    "from_name": "Sneha Iyer",
+    "from_email": "sneha.iyer@acme.com",
+    "subject": "Team Offsite — Agenda & dietary preferences",
+    "body": "Hi team,\n\nQuick reminder that the offsite is July 18-19 in Bangalore. Please reply with:\n1. Any dietary restrictions\n2. Whether you'll join the Friday evening dinner\n3. Preferred session for the Sat morning breakout (AI strategy / Customer journey / Hiring)\n\nThanks!\nSneha",
+    "received": "2026-06-01 11:05",
+    "thread_length": 1,
+    "has_attachment": false
+  },
+  {
+    "id": "e5",
+    "from_name": "Sarah Kim (Legal)",
+    "from_email": "sarah.kim@acme.com",
+    "subject": "URGENT: DPA signature required — Acme x Falcon deal",
+    "body": "Alex,\n\nThe Data Processing Agreement for the Falcon contract is sitting in your DocuSign queue. Client legal said they cannot countersign the MSA until our DPA is executed.\n\nThis is blocking $340K ARR. Please sign today.\n\n— Sarah",
+    "received": "2026-06-02 09:42",
+    "thread_length": 3,
+    "has_attachment": false
+  },
+  {
+    "id": "e6",
+    "from_name": "LinkedIn",
+    "from_email": "notifications@linkedin.com",
+    "subject": "You appeared in 14 searches this week",
+    "body": "See who's been viewing your profile. Upgrade to Premium to see all 14 searchers and unlock InMail credits.",
+    "received": "2026-06-02 06:00",
+    "thread_length": 1,
+    "has_attachment": false
+  },
+  {
+    "id": "e7",
+    "from_name": "Daniel Rodriguez",
+    "from_email": "daniel.r@acme.com",
+    "subject": "Re: Team stand-up notes — great update!",
+    "body": "Great update Alex! The velocity charts look healthy. Let's keep pushing on the auth refactor.\n\n— Dan",
+    "received": "2026-06-01 14:30",
+    "thread_length": 6,
+    "has_attachment": false
+  },
+  {
+    "id": "e8",
+    "from_name": "Maya Robinson",
+    "from_email": "maya@acme.com",
+    "subject": "Lunch tomorrow? Want to brainstorm the Q3 roadmap",
+    "body": "Hey Alex — free for lunch tomorrow around 12:30? I have some half-baked ideas for Q3 I'd love to bounce off you before the planning offsite.\n\nMaya",
+    "received": "2026-06-02 07:55",
+    "thread_length": 1,
+    "has_attachment": false
+  },
+  {
+    "id": "e9",
+    "from_name": "AWS Billing",
+    "from_email": "no-reply@aws.amazon.com",
+    "subject": "Your May 2026 AWS invoice is available",
+    "body": "Your invoice of $2,847.22 for AWS services consumed in May 2026 is now available in the billing console.",
+    "received": "2026-06-01 03:00",
+    "thread_length": 1,
+    "has_attachment": true
+  },
+  {
+    "id": "e10",
+    "from_name": "Microsoft Build Team",
+    "from_email": "build@microsoft.com",
+    "subject": "Your hackathon submission was received",
+    "body": "Thanks for submitting to Microsoft Build AI 2026, Theme 01 — AI at Work. Judging begins June 10. You'll hear back by June 24.",
+    "received": "2026-06-01 22:14",
+    "thread_length": 1,
+    "has_attachment": false
+  }
+]
